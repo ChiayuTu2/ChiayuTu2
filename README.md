@@ -1,8 +1,13 @@
 # Hi, I'm Chiayu Tu (Louis) 👋
 
-## About Me
-- 🌱 I’m currently studying Computer Science Master of Engineering at Oregon State University.
-- 
+## 💻 About Me
+- 🌱 I'm currently a Master of Engineering student in Computer Science at Oregon State University. My academic journey is deeply rooted in a passion for technology, with a special focus on Graphics, Algorithms, and Artificial Intelligence.
+- 🔭 What I'm Learning and Doing
+  - Graphics: Exploring the fascinating world of computer graphics, understanding how visual elements are created and manipulated in the digital realm.
+  - Algorithms: Diving deep into the efficiency, design, and implementation of algorithms, which are the cornerstone of solving complex computational problems.
+  - Artificial Intelligence: Venturing into the realm of AI, learning about its principles, and exploring its applications in various sectors.
+- 📫 Let's Connect!
+  - 📧 tuchiayu0420@gmail.com && tuchi@oregonstate.edu 
 
 ## 🛠 Technologies and Skills
 
